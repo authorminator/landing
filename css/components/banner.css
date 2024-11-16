@@ -1,0 +1,22 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  width: auto;
+  height: 600px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner p {
+  font-size: 1.25em;
+}
+
+.button {
+  display: inline-block;
+  color: white;
+  background-color: limegreen;
+  border-radius: 35px;
+  padding: 15px 35px;
+}
